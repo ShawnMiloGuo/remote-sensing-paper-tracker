@@ -63,7 +63,8 @@
       "publication_date": "2026-11（期刊卷期，非确切在线发表日）",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false
+      "read": true,
+      "read_at": "2026-11-12"
     },
     "10.1109/TGRS.2026.3743933": {
       "journal": "TGRS",
