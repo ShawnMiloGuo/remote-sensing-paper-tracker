@@ -80,6 +80,21 @@
       "favorite": false,
       "read": true,
       "read_at": "2026-11-12"
+    },
+    "10.1016/j.jag.2026.105647": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105647",
+      "title_en": "Score-space knowledge graph propagation for generalized multi-label zero-shot classification of remote sensing images",
+      "title_zh": "用于遥感影像广义多标签零样本分类的分数空间知识图谱传播",
+      "authors": "Rui Cao; Zhizheng Zhang; Hong Shu; Zhenfeng Shao",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-10-27",
+      "date_source": "二级学术索引 Epub 日期；出版商页面仅显示2026年11月卷期",
+      "summary_zh": "通过类型化标签关系图传播并修正图文匹配分数，改善已见与未见类别并存时的遥感影像多标签零样本分类。",
+      "url": "https://doi.org/10.1016/j.jag.2026.105647",
+      "first_pushed_at": "2026-11-12",
+      "favorite": false,
+      "read": false
     }
   },
   "last_checked_at": "2026-11-12"
