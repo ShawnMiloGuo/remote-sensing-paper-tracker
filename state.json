@@ -6,6 +6,77 @@
     "ISPRS",
     "TGRS"
   ],
-  "papers": {},
-  "last_checked_at": null
+  "papers": {
+    "10.1016/j.jag.2026.105668": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105668",
+      "title_en": "Satellite observations reveal expanding high-latitude warming hotspots and regional contrasts on global surface temperature change",
+      "title_zh": "卫星观测揭示高纬度增暖热点扩张及全球地表温度变化的区域差异",
+      "authors": "Menglin Si; Zhao-Liang Li; Xiangyang Liu; Chen Ru; Yazhen Jiang; Pengke Shen; Chenyang Ma; Jiani He; Bo-Hui Tang",
+      "summary_zh": "利用2003—2023年卫星地表温度及三维时空聚类分析全球增暖热点，发现北半球高纬度热点持续扩张。",
+      "url": "https://doi.org/10.1016/j.jag.2026.105668",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-11（期刊卷期，非确切在线发表日）",
+      "first_pushed_at": "2026-11-12",
+      "favorite": false,
+      "read": false
+    },
+    "10.1016/j.jag.2026.105653": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105653",
+      "title_en": "A retrieval method for passive microwave LST integrating radiative transfer-informed land-air environmental conditions",
+      "title_zh": "融合辐射传输约束下陆气环境条件的被动微波地表温度反演方法",
+      "authors": "Weizhen Ji; Siquan Yang; Hongquan Sun; Qichao Yao",
+      "summary_zh": "融合辐射传输相关环境变量和机器学习，提高被动微波地表温度反演及轨道间隙填补精度。",
+      "url": "https://doi.org/10.1016/j.jag.2026.105653",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-11（期刊卷期，非确切在线发表日）",
+      "first_pushed_at": "2026-11-12",
+      "favorite": false,
+      "read": false
+    },
+    "10.1016/j.rse.2026.115597": {
+      "journal": "RSE",
+      "doi": "10.1016/j.rse.2026.115597",
+      "title_en": "Tracking global extreme afternoon photosynthesis depression: Frequency, duration, and drivers from satellite-based hourly GPP products",
+      "title_zh": "利用卫星逐小时总初级生产力产品追踪全球极端午后光合作用抑制的频率、持续时间及驱动因素",
+      "authors": "Jingyu Lin; Xing Li; Xiaojun Li; Xuanlong Ma; Lei Fan; Sadegh Ranjbar; Jing M. Chen",
+      "summary_zh": "提出午后光合作用抑制指数，评估全球极端午后光合下降事件及其与大气干燥程度的联系。",
+      "url": "https://doi.org/10.1016/j.rse.2026.115597",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-11（期刊卷期，非确切在线发表日）",
+      "first_pushed_at": "2026-11-12",
+      "favorite": false,
+      "read": false
+    },
+    "10.1016/j.isprsjprs.2026.08.032": {
+      "journal": "ISPRS",
+      "doi": "10.1016/j.isprsjprs.2026.08.032",
+      "title_en": "PSSformer: A persistent scatters selection method for SAR interferometry based on temporal-spatial vision transformers",
+      "title_zh": "PSSformer：基于时空视觉 Transformer 的 SAR 干涉测量永久散射体筛选方法",
+      "authors": "Yifan Zhang; Jordi J. Mallorqui; Wen Wang; Yu Qiu; Yaogang Chen; Leixin Zhang; Liqun Liu",
+      "summary_zh": "融合干涉相位与幅度的时空信息，提高 InSAR 永久散射体筛选质量及形变监测精度。",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.08.032",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-11（期刊卷期，非确切在线发表日）",
+      "first_pushed_at": "2026-11-12",
+      "favorite": false,
+      "read": false
+    },
+    "10.1109/TGRS.2026.3743933": {
+      "journal": "TGRS",
+      "doi": "10.1109/TGRS.2026.3743933",
+      "title_en": "Coupled Registration and Change Detection for Remote Sensing Images: A Joint Optimization Framework",
+      "title_zh": "遥感影像配准与变化检测耦合：一种联合优化框架",
+      "authors": "作者暂未获取",
+      "summary_zh": "通过联合学习影像配准和变化检测，减少串行流程的误差传播，提高多时相遥感影像变化识别性能。",
+      "url": "https://doi.org/10.1109/TGRS.2026.3743933",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-10-19",
+      "first_pushed_at": "2026-11-12",
+      "favorite": false,
+      "read": false
+    }
+  },
+  "last_checked_at": "2026-11-12"
 }
