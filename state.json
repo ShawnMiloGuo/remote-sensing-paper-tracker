@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "journals": [
+    "JAG",
+    "RSE",
+    "ISPRS",
+    "TGRS"
+  ],
+  "papers": {},
+  "last_checked_at": null
+}
