@@ -28,3 +28,12 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2026-11（期刊卷期，非确切在线发表日）
 - 已读标记日期：2026-11-12
+
+## 遥感影像配准与变化检测耦合：一种联合优化框架
+- 英文标题：Coupled Registration and Change Detection for Remote Sensing Images: A Joint Optimization Framework
+- 期刊：TGRS
+- DOI：[10.1109/TGRS.2026.3743933](https://doi.org/10.1109/TGRS.2026.3743933)
+- 作者：作者暂未获取
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-10-19
+- 已读标记日期：2026-11-12
