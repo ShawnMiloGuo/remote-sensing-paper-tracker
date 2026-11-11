@@ -10,3 +10,12 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2026-11（期刊卷期，非确切在线发表日）
 - 已读标记日期：2026-11-12
+
+## 融合辐射传输约束下陆气环境条件的被动微波地表温度反演方法
+- 英文标题：A retrieval method for passive microwave LST integrating radiative transfer-informed land-air environmental conditions
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105653](https://doi.org/10.1016/j.jag.2026.105653)
+- 作者：Weizhen Ji; Siquan Yang; Hongquan Sun; Qichao Yao
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-11（期刊卷期，非确切在线发表日）
+- 已读标记日期：2026-11-12
