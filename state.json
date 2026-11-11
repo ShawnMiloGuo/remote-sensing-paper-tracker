@@ -94,7 +94,8 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105647",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false
+      "read": true,
+      "read_at": "2026-11-12"
     }
   },
   "last_checked_at": "2026-11-12"
