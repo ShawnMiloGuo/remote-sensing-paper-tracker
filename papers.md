@@ -57,3 +57,48 @@
 - 在线日期：2026-10-27（二级学术索引 Epub 日期；出版商页面仅显示2026年11月卷期）
 - 简介：通过类型化标签关系图传播并修正图文匹配分数，改善已见与未见类别并存时的遥感影像多标签零样本分类。
 - 状态：未读、未收藏
+
+### JAG · Volume 154｜从二维走向三维：基于超分辨率增强时空建模的城市夜间人工光分布
+- 英文：From 2D toward 3D: City-scale artificial light at night distribution by super-resolution augmented spatiotemporal data modelling
+- DOI：[10.1016/j.jag.2026.105661](https://doi.org/10.1016/j.jag.2026.105661)
+- 作者：Qixiu Hu; Rui Zhu; Yuyan Wan; Guonian Lü; Man Sing Wong; Hou Jiang; Huiping Jiang; Xi Li; Zheng Qin; Yanqing Xu
+- 作者单位：作者单位暂未获取
+- 卷期：Volume 154，2026-11
+- 简介：通过融合夜光遥感影像、城市三维点云和土地利用信息，重建屋顶、立面及地面的夜间人工光分布。
+- 状态：未读、未收藏
+
+### JAG · Volume 154｜GeoSeg-SAM：面向地质遥感解译的任务对齐 SAM 适配框架
+- 英文：GeoSeg-SAM: Task-aligned adaptation of SAM for geological remote sensing interpretation
+- DOI：[10.1016/j.jag.2026.105629](https://doi.org/10.1016/j.jag.2026.105629)
+- 作者：Wei Han; Zhipeng Wan; Xi Chen; Sheng Wang; Lizhe Wang
+- 作者单位：作者单位暂未获取
+- 卷期：Volume 154，2026-11
+- 简介：引入语义适配器和多尺度结构建模，提高 SAM 在地质遥感影像语义分割中的表现。
+- 状态：未读、未收藏
+
+### JAG · Volume 154｜火灾后植被恢复驱动因素的时序变化：基于 Landsat 的韩国蔚珍 2022 年山火多年分析
+- 英文：Driver-specific temporal shifts in post-fire vegetation recovery: a multi-year Landsat-based analysis of the 2022 Uljin forest fire, South Korea
+- DOI：[10.1016/j.jag.2026.105670](https://doi.org/10.1016/j.jag.2026.105670)
+- 作者：Min Seok Kim; Hyun Cheol Seo; Ji Soo Lee; Yoon Ha Lee
+- 作者单位：作者单位暂未获取
+- 卷期：Volume 154，2026-11
+- 简介：利用2022—2025年Landsat dNBR和环境变量分析火后恢复的地形与气象驱动因素如何随时间变化。
+- 状态：未读、未收藏
+
+### RSE · Volume 345｜水稻叶片病原体感染改变了辐射传输模型反演揭示的光谱—生化关系
+- 英文：Rice leaf pathogen infection alters the spectral–biochemical relationships revealed by radiative transfer model inversion
+- DOI：[10.1016/j.rse.2026.115592](https://doi.org/10.1016/j.rse.2026.115592)
+- 作者：Long Tian; Susan L. Ustin; Yuanyuan Kong; Bowen Xue; Pablo J. Zarco-Tejada; Chongya Jiang; Xia Yao; Yufang Jin; Yan Zhu; Weixing Cao; Tao Cheng
+- 作者单位：作者单位暂未获取
+- 卷期：Volume 345，2026-11
+- 简介：结合光谱混合分析和PROSPECT模型，提取病斑叶绿素信息，实现水稻病害可见症状出现前的检测。
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 242｜寻找差异：一种对配准误差稳健的遥感影像目标级变化检测框架
+- 英文：Spot the differences: a registration-robust object-level change detection framework for remote sensing images
+- DOI：[10.1016/j.isprsjprs.2026.09.001](https://doi.org/10.1016/j.isprsjprs.2026.09.001)
+- 作者：Yuhang Song; Yuanfeng Wu; Boya Zhao; Zutian He; Xiushan Bai; Wenzhi Liao; Bing Zhang
+- 作者单位：作者单位暂未获取
+- 卷期：Volume 242，2026-12
+- 简介：通过匹配跨时相不变目标来推断变化，降低目标级变化检测对严格像素配准的依赖。
+- 状态：未读、未收藏
