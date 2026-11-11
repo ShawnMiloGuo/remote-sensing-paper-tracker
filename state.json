@@ -78,7 +78,8 @@
       "publication_date": "2026-10-19",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false
+      "read": true,
+      "read_at": "2026-11-12"
     }
   },
   "last_checked_at": "2026-11-12"
