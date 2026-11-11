@@ -19,3 +19,12 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2026-11（期刊卷期，非确切在线发表日）
 - 已读标记日期：2026-11-12
+
+## PSSformer：基于时空视觉 Transformer 的 SAR 干涉测量永久散射体筛选方法
+- 英文标题：PSSformer: A persistent scatters selection method for SAR interferometry based on temporal-spatial vision transformers
+- 期刊：ISPRS
+- DOI：[10.1016/j.isprsjprs.2026.08.032](https://doi.org/10.1016/j.isprsjprs.2026.08.032)
+- 作者：Yifan Zhang; Jordi J. Mallorqui; Wen Wang; Yu Qiu; Yaogang Chen; Leixin Zhang; Liqun Liu
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-11（期刊卷期，非确切在线发表日）
+- 已读标记日期：2026-11-12
