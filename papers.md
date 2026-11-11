@@ -48,3 +48,12 @@
 - 发表日期：2026-10-19
 - 摘要：通过联合学习影像配准和变化检测，减少串行流程的误差传播，提高多时相遥感影像变化识别性能。
 - 状态：未读、未收藏
+
+### JAG｜用于遥感影像广义多标签零样本分类的分数空间知识图谱传播
+- 英文：Score-space knowledge graph propagation for generalized multi-label zero-shot classification of remote sensing images
+- DOI：[10.1016/j.jag.2026.105647](https://doi.org/10.1016/j.jag.2026.105647)
+- 作者：Rui Cao; Zhizheng Zhang; Hong Shu; Zhenfeng Shao
+- 作者单位：作者单位暂未获取
+- 在线日期：2026-10-27（二级学术索引 Epub 日期；出版商页面仅显示2026年11月卷期）
+- 简介：通过类型化标签关系图传播并修正图文匹配分数，改善已见与未见类别并存时的遥感影像多标签零样本分类。
+- 状态：未读、未收藏
