@@ -46,3 +46,21 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2026-10-27
 - 已读标记日期：2026-11-12
+
+## 水稻叶片病原体感染改变了辐射传输模型反演揭示的光谱—生化关系
+- 英文标题：Rice leaf pathogen infection alters the spectral–biochemical relationships revealed by radiative transfer model inversion
+- 期刊：RSE
+- DOI：[10.1016/j.rse.2026.115592](https://doi.org/10.1016/j.rse.2026.115592)
+- 作者：Long Tian; Susan L. Ustin; Yuanyuan Kong; Bowen Xue; Pablo J. Zarco-Tejada; Chongya Jiang; Xia Yao; Yufang Jin; Yan Zhu; Weixing Cao; Tao Cheng
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-11
+- 已读标记日期：2026-11-12
+
+## 寻找差异：一种对配准误差稳健的遥感影像目标级变化检测框架
+- 英文标题：Spot the differences: a registration-robust object-level change detection framework for remote sensing images
+- 期刊：ISPRS JPRS
+- DOI：[10.1016/j.isprsjprs.2026.09.001](https://doi.org/10.1016/j.isprsjprs.2026.09.001)
+- 作者：Yuhang Song; Yuanfeng Wu; Boya Zhao; Zutian He; Xiushan Bai; Wenzhi Liao; Bing Zhang
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-12
+- 已读标记日期：2026-11-12
