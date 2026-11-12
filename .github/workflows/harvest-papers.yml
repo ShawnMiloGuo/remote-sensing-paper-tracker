@@ -1,0 +1,37 @@
+name: Harvest remote sensing papers
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # 08:00 Asia/Shanghai
+permissions:
+  contents: write
+concurrency:
+  group: harvest-papers
+  cancel-in-progress: false
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Fetch journal metadata
+        run: python scripts/harvest.py
+        env:
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json papers.md harvest_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update journal issue paper metadata"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
