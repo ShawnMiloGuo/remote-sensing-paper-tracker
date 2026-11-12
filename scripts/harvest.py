@@ -46,7 +46,7 @@ def fetch(url, params=None):
 
 
 def crossref_items(issn, filters=None, rows=1000, max_pages=20):
-    params = {"rows": min(rows, 1000), "select": "DOI,title,author,published,volume,issue,type,URL,container-title"}
+    params = {"rows": min(rows, 1000), "sort": "published", "order": "desc", "select": "DOI,title,author,published,volume,issue,type,URL,container-title"}
     if filters:
         params["filter"] = filters
     items = []
@@ -118,7 +118,7 @@ def main():
                 info["errors"].append("RSS: " + str(e))
         try:
             # Fetch recent indexed works, then infer latest assigned volume; RSS is supplementary.
-            items = crossref_items(cfg["issn"], rows=1000, max_pages=3)
+            items = crossref_items(cfg["issn"], filters="from-pub-date:2025-01-01", rows=1000, max_pages=3)
             assigned = [x for x in items if x.get("volume") and x.get("DOI")]
             if not assigned:
                 raise RuntimeError("No Crossref records with assigned volume")
@@ -129,7 +129,7 @@ def main():
             volume = latest["volume"]
             info["target_volume"] = volume
             # Crossref indexes volume; some journals have issue numbers, others do not.
-            vol_items = crossref_items(cfg["issn"], filters=f"from-pub-date:2025-01-01", rows=1000, max_pages=20)
+            vol_items = crossref_items(cfg["issn"], filters="from-pub-date:2025-01-01", rows=1000, max_pages=20)
             selected = [x for x in vol_items if str(x.get("volume", "")) == str(volume) and x.get("DOI") and x.get("type") == "journal-article"]
             info["crossref_records"] = len(selected)
             issue_values = sorted({str(x.get("issue")) for x in selected if x.get("issue")})
