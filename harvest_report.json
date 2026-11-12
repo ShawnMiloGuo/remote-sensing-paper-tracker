@@ -1,1 +1,51 @@
-{"status":"not_run","notes":"GitHub Actions workflow has not run yet; do not infer completeness."}
+{
+  "run_at": "2026-11-12T00:04:54.919999+00:00",
+  "journals": {
+    "JAG": {
+      "rss_entries": 100,
+      "rss_dois": 0,
+      "crossref_records": 86,
+      "target_volume": "154",
+      "target_issue": null,
+      "issue_completeness_verified": false,
+      "new_records": 80,
+      "errors": [],
+      "rss_dois_not_in_volume": 0
+    },
+    "RSE": {
+      "rss_entries": 47,
+      "rss_dois": 0,
+      "crossref_records": 11,
+      "target_volume": "349",
+      "target_issue": null,
+      "issue_completeness_verified": false,
+      "new_records": 11,
+      "errors": [],
+      "rss_dois_not_in_volume": 0
+    },
+    "ISPRS JPRS": {
+      "rss_entries": 64,
+      "rss_dois": 0,
+      "crossref_records": 64,
+      "target_volume": "243",
+      "target_issue": null,
+      "issue_completeness_verified": false,
+      "new_records": 64,
+      "errors": [],
+      "rss_dois_not_in_volume": 0
+    },
+    "TGRS": {
+      "rss_entries": null,
+      "rss_dois": null,
+      "crossref_records": null,
+      "target_volume": null,
+      "target_issue": null,
+      "issue_completeness_verified": false,
+      "new_records": 0,
+      "errors": [
+        "Crossref: Crossref pagination limit reached; completeness unknown"
+      ]
+    }
+  },
+  "notes": "Crossref metadata cannot certify complete publisher issue contents; check official table of contents."
+}
