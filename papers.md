@@ -1497,3 +1497,30 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜A novel approach for soil moisture retrieval via fusing multi-spaceborne GNSS-R observations in entire Tibetan Plateau
+- 英文标题：A novel approach for soil moisture retrieval via fusing multi-spaceborne GNSS-R observations in entire Tibetan Plateau
+- DOI：[10.1016/j.jag.2026.105667](https://doi.org/10.1016/j.jag.2026.105667)
+- 作者：Wenzhou Xu; Haohan Wei; Shuanggen Jin; Dong Chen; Hongtao Shi; Tianjie Zhao; Zhehui Shen; Cong Yin; Rongrong Li; Wentao Dai; Songbo Qu; Mengfei Liu; Jinyao Zheng
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜ObsGate-SST: observation-gated background–detail learning for global daily sea surface temperature reconstruction
+- 英文标题：ObsGate-SST: observation-gated background–detail learning for global daily sea surface temperature reconstruction
+- DOI：[10.1016/j.jag.2026.105676](https://doi.org/10.1016/j.jag.2026.105676)
+- 作者：Wei Chen; Xiaoping Cheng; Jianfang Fei; Xiaogang Huang
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜Sentinel-1 and Sentinel-2 responses to Hansen-reported forest loss in the Peruvian Amazon: Timing and spatial sensitivity
+- 英文标题：Sentinel-1 and Sentinel-2 responses to Hansen-reported forest loss in the Peruvian Amazon: Timing and spatial sensitivity
+- DOI：[10.1016/j.jag.2026.105677](https://doi.org/10.1016/j.jag.2026.105677)
+- 作者：Bojana Petrovic; Jan Banout; Aleš Kučera; Adam Hruška; Tomáš Goga; Hynek Roubík
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏

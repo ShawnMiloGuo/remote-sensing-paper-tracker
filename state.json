@@ -2966,7 +2966,61 @@
       "read": false,
       "metadata_source": "Crossref",
       "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.jag.2026.105667": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105667",
+      "title_en": "A novel approach for soil moisture retrieval via fusing multi-spaceborne GNSS-R observations in entire Tibetan Plateau",
+      "title_zh": "",
+      "authors": "Wenzhou Xu; Haohan Wei; Shuanggen Jin; Dong Chen; Hongtao Shi; Tianjie Zhao; Zhehui Shen; Cong Yin; Rongrong Li; Wentao Dai; Songbo Qu; Mengfei Liu; Jinyao Zheng",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-12",
+      "volume": "155",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.jag.2026.105667",
+      "first_pushed_at": "2026-11-13",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.jag.2026.105676": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105676",
+      "title_en": "ObsGate-SST: observation-gated background–detail learning for global daily sea surface temperature reconstruction",
+      "title_zh": "",
+      "authors": "Wei Chen; Xiaoping Cheng; Jianfang Fei; Xiaogang Huang",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-12",
+      "volume": "155",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.jag.2026.105676",
+      "first_pushed_at": "2026-11-13",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.jag.2026.105677": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105677",
+      "title_en": "Sentinel-1 and Sentinel-2 responses to Hansen-reported forest loss in the Peruvian Amazon: Timing and spatial sensitivity",
+      "title_zh": "",
+      "authors": "Bojana Petrovic; Jan Banout; Aleš Kučera; Adam Hruška; Tomáš Goga; Hynek Roubík",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-12",
+      "volume": "155",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.jag.2026.105677",
+      "first_pushed_at": "2026-11-13",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
     }
   },
-  "last_checked_at": "2026-11-12T00:04:54.919999+00:00"
+  "last_checked_at": "2026-11-13T04:58:11.824060+00:00"
 }
