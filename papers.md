@@ -1524,3 +1524,66 @@
 - 发表日期：2026-12
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜Process-informed deep learning for interpretable forested wetland mapping under dense canopy
+- 英文标题：Process-informed deep learning for interpretable forested wetland mapping under dense canopy
+- DOI：[10.1016/j.jag.2026.105672](https://doi.org/10.1016/j.jag.2026.105672)
+- 作者：Jing Lv; Hengxing Xiang; Yanbiao Xi; Xianglong Xing; Weihong Zhu; Dehua Mao; Kaidong Feng
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜High resolution sediment-specific surface soil moisture retrieval using Sentinel-1 time series and auxiliary data
+- 英文标题：High resolution sediment-specific surface soil moisture retrieval using Sentinel-1 time series and auxiliary data
+- DOI：[10.1016/j.jag.2026.105665](https://doi.org/10.1016/j.jag.2026.105665)
+- 作者：Alireza Hamedianfar; Oleg Antropov; Matthieu Molinier; Ulla Salmela; Hanna Kukkula; Lauri Seitsonen; Pauliina Liwata-Kenttälä; Maarit Middleton
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Hyperspectral remote sensing of cover crop traits for decision support in precision nitrogen management
+- 英文标题：Hyperspectral remote sensing of cover crop traits for decision support in precision nitrogen management
+- DOI：[10.1016/j.rse.2026.115759](https://doi.org/10.1016/j.rse.2026.115759)
+- 作者：Jyoti S. Jennewein; W. Dean Hively; Brian T. Lamb; S. Chris Reberg-Horton; Steven B. Mirsky
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Estimating the red-to-far-red chlorophyll fluorescence ratio with RGB imagery
+- 英文标题：Estimating the red-to-far-red chlorophyll fluorescence ratio with RGB imagery
+- DOI：[10.1016/j.rse.2026.115789](https://doi.org/10.1016/j.rse.2026.115789)
+- 作者：Chris H. Lee; Jonathan F. Dooley; Julia K. Marrs; David W. Allen; Taylor S. Jones; Hristiana Stoynova; Barry A. Logan; Lucy R. Hutyra
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Spatiotemporal variability in seasonal and interannual InSAR-derived excess ground ice content retrievals using Sentinel-1
+- 英文标题：Spatiotemporal variability in seasonal and interannual InSAR-derived excess ground ice content retrievals using Sentinel-1
+- DOI：[10.1016/j.rse.2026.115788](https://doi.org/10.1016/j.rse.2026.115788)
+- 作者：Alexander L. Nguyen; Tyler M. Meng; Roger J. Michaelides
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜CASGM: Co-visible area guided optical–SAR matching with significant geometric differences
+- 英文标题：CASGM: Co-visible area guided optical–SAR matching with significant geometric differences
+- DOI：[10.1016/j.isprsjprs.2026.11.007](https://doi.org/10.1016/j.isprsjprs.2026.11.007)
+- 作者：Yuchi Pu; Xin Xin; Yutong Hu; Pengcheng Shi; Jiayuan Li
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜MoDA: Unlocking frozen vision foundation models for multimodal fusion object detection in remote sensing
+- 英文标题：MoDA: Unlocking frozen vision foundation models for multimodal fusion object detection in remote sensing
+- DOI：[10.1016/j.isprsjprs.2026.11.006](https://doi.org/10.1016/j.isprsjprs.2026.11.006)
+- 作者：Chao Wang; Yanguang Sun; Zhenbo Yu; Jian Yang; Lei Luo
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
