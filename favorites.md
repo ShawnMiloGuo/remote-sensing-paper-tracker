@@ -37,3 +37,39 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2026-12（期刊卷期信息，非确切在线发表日）
 - 收藏标记日期：2026-11-14
+
+## Quantile-based homogeneity selection and similarity-weighted robust coherence matrix for distributed scatterer interferometry in mining deformation monitoring
+- 英文标题：Quantile-based homogeneity selection and similarity-weighted robust coherence matrix for distributed scatterer interferometry in mining deformation monitoring
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105638](https://doi.org/10.1016/j.jag.2026.105638)
+- 作者：Zeming Tian; Hongdong Fan; Jian Li
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-11
+- 收藏标记日期：2026-11-14
+
+## Assessing forest structural dynamics and post-disturbance early-stage recovery using PlanetScope imagery and photogrammetric point clouds
+- 英文标题：Assessing forest structural dynamics and post-disturbance early-stage recovery using PlanetScope imagery and photogrammetric point clouds
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105659](https://doi.org/10.1016/j.jag.2026.105659)
+- 作者：Nisham Thapa; Lana L. Narine; Tamara F. Milton; Heather D. Alexander; Adam O. Maggard
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-11
+- 收藏标记日期：2026-11-14
+
+## Relaxing the clear-sky assumption: Cloud-tolerant spatiotemporal fusion via mask-guided feature modulation and temporal-memory collaboration
+- 英文标题：Relaxing the clear-sky assumption: Cloud-tolerant spatiotemporal fusion via mask-guided feature modulation and temporal-memory collaboration
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105571](https://doi.org/10.1016/j.jag.2026.105571)
+- 作者：Sichen Lu; Juanjuan Jing; Junhua Yu; Lei Yang; Boyang Nie; Jinsong Zhou
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-11
+- 收藏标记日期：2026-11-14
+
+## A two-stage transformer framework for reconstructing hourly 1 km all-weather land surface temperature using cross-scale transfer learning
+- 英文标题：A two-stage transformer framework for reconstructing hourly 1 km all-weather land surface temperature using cross-scale transfer learning
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105602](https://doi.org/10.1016/j.jag.2026.105602)
+- 作者：Yuanyuan Luo; Sha Zhang; Kun Qiao; Yun Bai
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-11
+- 收藏标记日期：2026-11-14
