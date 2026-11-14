@@ -64,3 +64,21 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2026-12
 - 已读标记日期：2026-11-12
+
+## 融合多源星载 GNSS-R 观测的青藏高原全域土壤水分反演新方法
+- 英文标题：A novel approach for soil moisture retrieval via fusing multi-spaceborne GNSS-R observations in entire Tibetan Plateau
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105667](https://doi.org/10.1016/j.jag.2026.105667)
+- 作者：Wenzhou Xu; Haohan Wei; Shuanggen Jin; Dong Chen; Hongtao Shi; Tianjie Zhao; Zhehui Shen; Cong Yin; Rongrong Li; Wentao Dai; Songbo Qu; Mengfei Liu; Jinyao Zheng
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-12（期刊卷期信息，非确切在线发表日）
+- 已读标记日期：2026-11-14
+
+## Sentinel-1 和 Sentinel-2 对秘鲁亚马孙地区 Hansen 森林损失记录的响应：时间与空间敏感性
+- 英文标题：Sentinel-1 and Sentinel-2 responses to Hansen-reported forest loss in the Peruvian Amazon: Timing and spatial sensitivity
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105677](https://doi.org/10.1016/j.jag.2026.105677)
+- 作者：Bojana Petrovic; Jan Banout; Aleš Kučera; Adam Hruška; Tomáš Goga; Hynek Roubík
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-12（期刊卷期信息，非确切在线发表日）
+- 已读标记日期：2026-11-14
