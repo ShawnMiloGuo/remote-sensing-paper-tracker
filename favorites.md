@@ -28,3 +28,12 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2026-11
 - 收藏标记日期：2026-11-12
+
+## ObsGate-SST：面向全球逐日海表温度重建的观测门控背景—细节学习方法
+- 英文标题：ObsGate-SST: observation-gated background–detail learning for global daily sea surface temperature reconstruction
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105676](https://doi.org/10.1016/j.jag.2026.105676)
+- 作者：Wei Chen; Xiaoping Cheng; Jianfang Fei; Xiaogang Huang
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-12（期刊卷期信息，非确切在线发表日）
+- 收藏标记日期：2026-11-14
