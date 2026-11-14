@@ -49,7 +49,8 @@
       "publication_date": "2026-11（期刊卷期，非确切在线发表日）",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false
+      "read": true,
+      "read_at": "2026-11-14"
     },
     "10.1016/j.isprsjprs.2026.08.032": {
       "journal": "ISPRS",
@@ -191,9 +192,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105636",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105610": {
       "journal": "JAG",
@@ -209,9 +211,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105610",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105623": {
       "journal": "JAG",
@@ -227,9 +230,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105623",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105594": {
       "journal": "JAG",
@@ -245,9 +249,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105594",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105638": {
       "journal": "JAG",
@@ -262,10 +267,11 @@
       "summary_zh": "",
       "url": "https://doi.org/10.1016/j.jag.2026.105638",
       "first_pushed_at": "2026-11-12",
-      "favorite": false,
+      "favorite": true,
       "read": false,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "favorited_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105657": {
       "journal": "JAG",
@@ -281,9 +287,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105657",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105655": {
       "journal": "JAG",
@@ -299,9 +306,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105655",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105614": {
       "journal": "JAG",
@@ -317,9 +325,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105614",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105606": {
       "journal": "JAG",
@@ -335,9 +344,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105606",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105596": {
       "journal": "JAG",
@@ -353,9 +363,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105596",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105601": {
       "journal": "JAG",
@@ -371,9 +382,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105601",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105644": {
       "journal": "JAG",
@@ -389,9 +401,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105644",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105669": {
       "journal": "JAG",
@@ -407,9 +420,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105669",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105624": {
       "journal": "JAG",
@@ -425,9 +439,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105624",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105662": {
       "journal": "JAG",
@@ -443,9 +458,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105662",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105592": {
       "journal": "JAG",
@@ -461,9 +477,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105592",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105617": {
       "journal": "JAG",
@@ -479,9 +496,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105617",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105673": {
       "journal": "JAG",
@@ -497,9 +515,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105673",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105631": {
       "journal": "JAG",
@@ -515,9 +534,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105631",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105622": {
       "journal": "JAG",
@@ -533,9 +553,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105622",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105607": {
       "journal": "JAG",
@@ -551,9 +572,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105607",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105634": {
       "journal": "JAG",
@@ -569,9 +591,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105634",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105664": {
       "journal": "JAG",
@@ -587,9 +610,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105664",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105656": {
       "journal": "JAG",
@@ -605,9 +629,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105656",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105659": {
       "journal": "JAG",
@@ -622,10 +647,11 @@
       "summary_zh": "",
       "url": "https://doi.org/10.1016/j.jag.2026.105659",
       "first_pushed_at": "2026-11-12",
-      "favorite": false,
+      "favorite": true,
       "read": false,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "favorited_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105643": {
       "journal": "JAG",
@@ -641,9 +667,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105643",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105619": {
       "journal": "JAG",
@@ -659,9 +686,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105619",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105642": {
       "journal": "JAG",
@@ -677,9 +705,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105642",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105658": {
       "journal": "JAG",
@@ -695,9 +724,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105658",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105571": {
       "journal": "JAG",
@@ -712,10 +742,11 @@
       "summary_zh": "",
       "url": "https://doi.org/10.1016/j.jag.2026.105571",
       "first_pushed_at": "2026-11-12",
-      "favorite": false,
+      "favorite": true,
       "read": false,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "favorited_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105613": {
       "journal": "JAG",
@@ -731,9 +762,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105613",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105635": {
       "journal": "JAG",
@@ -749,9 +781,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105635",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105663": {
       "journal": "JAG",
@@ -767,9 +800,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105663",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105583": {
       "journal": "JAG",
@@ -785,9 +819,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105583",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105633": {
       "journal": "JAG",
@@ -821,9 +856,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105574",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105652": {
       "journal": "JAG",
@@ -839,9 +875,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105652",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105621": {
       "journal": "JAG",
@@ -857,9 +894,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105621",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105597": {
       "journal": "JAG",
@@ -875,9 +913,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105597",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105593": {
       "journal": "JAG",
@@ -893,9 +932,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105593",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105660": {
       "journal": "JAG",
@@ -911,9 +951,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105660",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105627": {
       "journal": "JAG",
@@ -929,9 +970,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105627",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105626": {
       "journal": "JAG",
@@ -947,9 +989,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105626",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105637": {
       "journal": "JAG",
@@ -965,9 +1008,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105637",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105602": {
       "journal": "JAG",
@@ -982,10 +1026,11 @@
       "summary_zh": "",
       "url": "https://doi.org/10.1016/j.jag.2026.105602",
       "first_pushed_at": "2026-11-12",
-      "favorite": false,
+      "favorite": true,
       "read": false,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "favorited_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105620": {
       "journal": "JAG",
@@ -1001,9 +1046,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105620",
       "first_pushed_at": "2026-11-12",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-14"
     },
     "10.1016/j.jag.2026.105605": {
       "journal": "JAG",
