@@ -3084,9 +3084,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105672",
       "first_pushed_at": "2026-11-14",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-15"
     },
     "10.1016/j.jag.2026.105665": {
       "journal": "JAG",
@@ -3102,9 +3103,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105665",
       "first_pushed_at": "2026-11-14",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-15"
     },
     "10.1016/j.rse.2026.115759": {
       "journal": "RSE",
@@ -3120,9 +3122,10 @@
       "url": "https://doi.org/10.1016/j.rse.2026.115759",
       "first_pushed_at": "2026-11-14",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-15"
     },
     "10.1016/j.rse.2026.115789": {
       "journal": "RSE",
@@ -3138,9 +3141,10 @@
       "url": "https://doi.org/10.1016/j.rse.2026.115789",
       "first_pushed_at": "2026-11-14",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-15"
     },
     "10.1016/j.rse.2026.115788": {
       "journal": "RSE",
@@ -3156,9 +3160,10 @@
       "url": "https://doi.org/10.1016/j.rse.2026.115788",
       "first_pushed_at": "2026-11-14",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-15"
     },
     "10.1016/j.isprsjprs.2026.11.007": {
       "journal": "ISPRS JPRS",
@@ -3174,9 +3179,10 @@
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.11.007",
       "first_pushed_at": "2026-11-14",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-15"
     },
     "10.1016/j.isprsjprs.2026.11.006": {
       "journal": "ISPRS JPRS",
@@ -3192,9 +3198,10 @@
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.11.006",
       "first_pushed_at": "2026-11-14",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-15"
     }
   },
   "last_checked_at": "2026-11-14T04:51:58.520991+00:00"
