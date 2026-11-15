@@ -1587,3 +1587,39 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜DBEFNet: a dual-branch fusion network integrating remote sensing imagery and building morphology for urban village segmentation
+- 英文标题：DBEFNet: a dual-branch fusion network integrating remote sensing imagery and building morphology for urban village segmentation
+- DOI：[10.1016/j.jag.2026.105682](https://doi.org/10.1016/j.jag.2026.105682)
+- 作者：Zhonglin Yang; Yimin Chen; Haifeng Li; Wufan Zhao; Ying Sun; Mengwei Liu
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Tracking US tidal marsh extent and change with dense Landsat time series and comparisons with existing products
+- 英文标题：Tracking US tidal marsh extent and change with dense Landsat time series and comparisons with existing products
+- DOI：[10.1016/j.rse.2026.115779](https://doi.org/10.1016/j.rse.2026.115779)
+- 作者：Xiucheng Yang; Sara H. Knox; Shi Qiu; Kevin D. Kroeger; Zhiliang Zhu; Scott Covington; Zhe Zhu
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Image‑based 3D digital reconstruction of tower structures and dynamic visualization
+- 英文标题：Image‑based 3D digital reconstruction of tower structures and dynamic visualization
+- DOI：[10.1016/j.isprsjprs.2026.10.043](https://doi.org/10.1016/j.isprsjprs.2026.10.043)
+- 作者：Xing Fu; De-Sheng Zhao; Gang Li
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜G-TEAM: general trajectory enhancement and mapping across diverse LiDAR platforms and environments
+- 英文标题：G-TEAM: general trajectory enhancement and mapping across diverse LiDAR platforms and environments
+- DOI：[10.1016/j.isprsjprs.2026.11.009](https://doi.org/10.1016/j.isprsjprs.2026.11.009)
+- 作者：Chunxi Zhao; Sangyoon Park; Songlin Fei; Ayman Habib
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
