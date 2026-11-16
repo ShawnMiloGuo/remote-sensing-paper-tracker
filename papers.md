@@ -1594,7 +1594,8 @@
 - 作者：Zhonglin Yang; Yimin Chen; Haifeng Li; Wufan Zhao; Ying Sun; Mengwei Liu
 - 卷期：Volume 155
 - 发表日期：2026-12
-- 中文标题及摘要：待翻译
+- 中文标题：DBEFNet：融合遥感影像与建筑形态的双分支城中村分割网络
+- 研究简介：通过双分支网络联合利用遥感影像与建筑形态信息，研究城中村区域的精细分割。（依据标题概述，未核实摘要）
 - 状态：未读、未收藏
 
 ### RSE · Volume 349｜Tracking US tidal marsh extent and change with dense Landsat time series and comparisons with existing products
@@ -1603,7 +1604,8 @@
 - 作者：Xiucheng Yang; Sara H. Knox; Shi Qiu; Kevin D. Kroeger; Zhiliang Zhu; Scott Covington; Zhe Zhu
 - 卷期：Volume 349
 - 发表日期：2027-01
-- 中文标题及摘要：待翻译
+- 中文标题：基于密集 Landsat 时间序列追踪美国潮汐盐沼范围及变化，并与现有产品比较
+- 研究简介：利用密集 Landsat 时间序列监测美国潮汐盐沼的空间分布与变化，并与已有制图产品进行比较。（依据标题概述，未核实摘要）
 - 状态：未读、未收藏
 
 ### ISPRS JPRS · Volume 243｜Image‑based 3D digital reconstruction of tower structures and dynamic visualization
@@ -1612,7 +1614,8 @@
 - 作者：Xing Fu; De-Sheng Zhao; Gang Li
 - 卷期：Volume 243
 - 发表日期：2027-01
-- 中文标题及摘要：待翻译
+- 中文标题：基于影像的塔状结构三维数字重建与动态可视化
+- 研究简介：研究从影像重建塔状结构的三维数字模型，并实现动态可视化。（依据标题概述，未核实摘要）
 - 状态：未读、未收藏
 
 ### ISPRS JPRS · Volume 243｜G-TEAM: general trajectory enhancement and mapping across diverse LiDAR platforms and environments
@@ -1621,5 +1624,6 @@
 - 作者：Chunxi Zhao; Sangyoon Park; Songlin Fei; Ayman Habib
 - 卷期：Volume 243
 - 发表日期：2027-01
-- 中文标题及摘要：待翻译
+- 中文标题：G-TEAM：跨多种 LiDAR 平台与环境的通用轨迹增强和测图方法
+- 研究简介：面向不同 LiDAR 平台及采集环境，研究通用的轨迹优化与测图方法。（依据标题概述，未核实摘要）
 - 状态：未读、未收藏
