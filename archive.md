@@ -523,3 +523,39 @@
 - 作者单位：作者单位暂未获取
 - 发表日期：2027-01
 - 已读标记日期：2026-11-15
+
+## DBEFNet：融合遥感影像与建筑形态的双分支城中村分割网络
+- 英文标题：DBEFNet: a dual-branch fusion network integrating remote sensing imagery and building morphology for urban village segmentation
+- 期刊：JAG
+- DOI：[10.1016/j.jag.2026.105682](https://doi.org/10.1016/j.jag.2026.105682)
+- 作者：Zhonglin Yang; Yimin Chen; Haifeng Li; Wufan Zhao; Ying Sun; Mengwei Liu
+- 作者单位：作者单位暂未获取
+- 发表日期：2026-12
+- 已读标记日期：2026-11-16
+
+## 基于密集 Landsat 时间序列追踪美国潮汐盐沼范围及变化，并与现有产品比较
+- 英文标题：Tracking US tidal marsh extent and change with dense Landsat time series and comparisons with existing products
+- 期刊：RSE
+- DOI：[10.1016/j.rse.2026.115779](https://doi.org/10.1016/j.rse.2026.115779)
+- 作者：Xiucheng Yang; Sara H. Knox; Shi Qiu; Kevin D. Kroeger; Zhiliang Zhu; Scott Covington; Zhe Zhu
+- 作者单位：作者单位暂未获取
+- 发表日期：2027-01
+- 已读标记日期：2026-11-16
+
+## 基于影像的塔状结构三维数字重建与动态可视化
+- 英文标题：Image‑based 3D digital reconstruction of tower structures and dynamic visualization
+- 期刊：ISPRS JPRS
+- DOI：[10.1016/j.isprsjprs.2026.10.043](https://doi.org/10.1016/j.isprsjprs.2026.10.043)
+- 作者：Xing Fu; De-Sheng Zhao; Gang Li
+- 作者单位：作者单位暂未获取
+- 发表日期：2027-01
+- 已读标记日期：2026-11-16
+
+## G-TEAM：跨多种 LiDAR 平台与环境的通用轨迹增强和测图方法
+- 英文标题：G-TEAM: general trajectory enhancement and mapping across diverse LiDAR platforms and environments
+- 期刊：ISPRS JPRS
+- DOI：[10.1016/j.isprsjprs.2026.11.009](https://doi.org/10.1016/j.isprsjprs.2026.11.009)
+- 作者：Chunxi Zhao; Sangyoon Park; Songlin Fei; Ayman Habib
+- 作者单位：作者单位暂未获取
+- 发表日期：2027-01
+- 已读标记日期：2026-11-16
