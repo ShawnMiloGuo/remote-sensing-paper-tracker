@@ -3217,9 +3217,10 @@
       "url": "https://doi.org/10.1016/j.jag.2026.105682",
       "first_pushed_at": "2026-11-15",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-16"
     },
     "10.1016/j.rse.2026.115779": {
       "journal": "RSE",
@@ -3235,9 +3236,10 @@
       "url": "https://doi.org/10.1016/j.rse.2026.115779",
       "first_pushed_at": "2026-11-15",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-16"
     },
     "10.1016/j.isprsjprs.2026.10.043": {
       "journal": "ISPRS JPRS",
@@ -3253,9 +3255,10 @@
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.10.043",
       "first_pushed_at": "2026-11-15",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-16"
     },
     "10.1016/j.isprsjprs.2026.11.009": {
       "journal": "ISPRS JPRS",
@@ -3271,9 +3274,10 @@
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.11.009",
       "first_pushed_at": "2026-11-15",
       "favorite": false,
-      "read": false,
+      "read": true,
       "metadata_source": "Crossref",
-      "verification": "volume metadata matched; official issue completeness not verified"
+      "verification": "volume metadata matched; official issue completeness not verified",
+      "read_at": "2026-11-16"
     }
   },
   "last_checked_at": "2026-11-15T04:44:27.235541+00:00"
