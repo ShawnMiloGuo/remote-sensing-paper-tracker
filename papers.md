@@ -1627,3 +1627,39 @@
 - 中文标题：G-TEAM：跨多种 LiDAR 平台与环境的通用轨迹增强和测图方法
 - 研究简介：面向不同 LiDAR 平台及采集环境，研究通用的轨迹优化与测图方法。（依据标题概述，未核实摘要）
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜PSGRNet: Multi-scale spectral–frequency representation learning with gated residual fusion for coastal wetland classification using UAV hyperspectral imagery
+- 英文标题：PSGRNet: Multi-scale spectral–frequency representation learning with gated residual fusion for coastal wetland classification using UAV hyperspectral imagery
+- DOI：[10.1016/j.jag.2026.105674](https://doi.org/10.1016/j.jag.2026.105674)
+- 作者：Jun Zhao; Hongjun Su; Hui Yang; Yang Tao; Qian Du
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜Hierarchical active learning for annotation-efficient 3D object detection in construction-scene LiDAR sensing
+- 英文标题：Hierarchical active learning for annotation-efficient 3D object detection in construction-scene LiDAR sensing
+- DOI：[10.1016/j.jag.2026.105678](https://doi.org/10.1016/j.jag.2026.105678)
+- 作者：You Li; Jialu Sui; Yasong Shi; Xiaokang Zhang; Shengjun Tang; Ruisheng Wang; Renzhong Guo
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Toward a global snow water equivalent observing strategy
+- 英文标题：Toward a global snow water equivalent observing strategy
+- DOI：[10.1016/j.rse.2026.115791](https://doi.org/10.1016/j.rse.2026.115791)
+- 作者：Carrie Vuyovich; Dorothy Hall; Eunsang Cho; Zachary Fair; Nicolo DiGirolamo; Melissa Wrzesien; Jack Tarricone; Justin Pflug; Paul T. Grogan; Catherine Breen; Sujay Kumar
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜ASMS-YOLO: Asymmetric spatial multi-scale enhancement for object detection in aerial imagery
+- 英文标题：ASMS-YOLO: Asymmetric spatial multi-scale enhancement for object detection in aerial imagery
+- DOI：[10.1016/j.isprsjprs.2026.11.001](https://doi.org/10.1016/j.isprsjprs.2026.11.001)
+- 作者：Ch.V. Swarna Kumari; M. Srinivas; R.B.V. Subramanyam
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
