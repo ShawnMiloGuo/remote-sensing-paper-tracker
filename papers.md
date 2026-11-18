@@ -1663,3 +1663,57 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜How should rural residential land in metropolitan suburbs be governed in the future? Evidence from Beijing using RGB-encoded multidimensional drivers and CNN prediction
+- 英文标题：How should rural residential land in metropolitan suburbs be governed in the future? Evidence from Beijing using RGB-encoded multidimensional drivers and CNN prediction
+- DOI：[10.1016/j.jag.2026.105680](https://doi.org/10.1016/j.jag.2026.105680)
+- 作者：Zehao Qiao; Maojun Wang; Wenyu Xu; Xuexia Zhang; Weizhong Liu
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜A spatially and temporally comparable Remote Sensing Ecological Index via de-gradient national PCA for China’s resource-based cities
+- 英文标题：A spatially and temporally comparable Remote Sensing Ecological Index via de-gradient national PCA for China’s resource-based cities
+- DOI：[10.1016/j.jag.2026.105679](https://doi.org/10.1016/j.jag.2026.105679)
+- 作者：Yedong Chen; Rongbing Xu; Sihao Gu; Zixuan Li
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Decoupling physiological and non-physiological drivers of SIF response to spatial water-salinity stress of Suaeda salsa in coastal wetlands
+- 英文标题：Decoupling physiological and non-physiological drivers of SIF response to spatial water-salinity stress of Suaeda salsa in coastal wetlands
+- DOI：[10.1016/j.rse.2026.115790](https://doi.org/10.1016/j.rse.2026.115790)
+- 作者：Sen Zhang; Qingjiu Tian; Xia Lu; Shan Li; Shuang He; Xinyuan Mu; Jun Zhang; Xiang Gao; Yanyan Wang
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜TomoDiff: A physics guided generative diffusion framework for TomoSAR reconstruction
+- 英文标题：TomoDiff: A physics guided generative diffusion framework for TomoSAR reconstruction
+- DOI：[10.1016/j.isprsjprs.2026.11.004](https://doi.org/10.1016/j.isprsjprs.2026.11.004)
+- 作者：Sihao Dong; Pu Gu; Qian Ma; Tao Lai; Qingsong Wang; Haifeng Huang; Zekun Jiao; Peng Shen; Yihan Yin
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Individual tree segmentation from terrestrial LiDAR: Benchmarking and forest structural analysis
+- 英文标题：Individual tree segmentation from terrestrial LiDAR: Benchmarking and forest structural analysis
+- DOI：[10.1016/j.isprsjprs.2026.11.002](https://doi.org/10.1016/j.isprsjprs.2026.11.002)
+- 作者：Maksymilian Kulicki; Yousef Erfanifard; Michał Laszkowski; Bartłomiej Kraszewski; Stefano Puliti; Binbin Xiang; Maciej Wielgosz; Janusz Będkowski; Krzysztof Stereńczak
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜LHD-134k: A global dataset of multiple disaster types for post-disaster damaged building mapping in high-resolution remote sensing imagery
+- 英文标题：LHD-134k: A global dataset of multiple disaster types for post-disaster damaged building mapping in high-resolution remote sensing imagery
+- DOI：[10.1016/j.isprsjprs.2026.11.005](https://doi.org/10.1016/j.isprsjprs.2026.11.005)
+- 作者：Haifeng Wang; Wei He; Naoto Yokoya; Ting Hu; Liangpei Zhang
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
