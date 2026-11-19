@@ -1717,3 +1717,57 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜Satellite embedding‑based mapping of grassland mowing frequency and its response to drought in Denmark
+- 英文标题：Satellite embedding‑based mapping of grassland mowing frequency and its response to drought in Denmark
+- DOI：[10.1016/j.jag.2026.105687](https://doi.org/10.1016/j.jag.2026.105687)
+- 作者：Rodolfo Ceriani; Francesco Fava; Michele Meroni; Mogens Humlekrog Greve; Lars Uldall-Jessen; Søren Kolind Hvid; Diego Abalos; Klaus Butterbach-Bahl; Jaber Rahimi
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜An InSAR-based framework for screening and prioritizing highway-threatening landslides in data-scarce mountainous regions: A case study of Jishishan, China
+- 英文标题：An InSAR-based framework for screening and prioritizing highway-threatening landslides in data-scarce mountainous regions: A case study of Jishishan, China
+- DOI：[10.1016/j.rse.2026.115797](https://doi.org/10.1016/j.rse.2026.115797)
+- 作者：Qianyou Fan; Shuangcheng Zhang; Jinzhao Si; Yufen Niu; Xuhao Li; Xiaolong Zeng; Ya Kang; Jinqi Zhao; Zhong Lu
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Soil moisture retrieval for dense vegetation considering time-varying first-order scattering from SMAP L-band dual-polarized brightness temperatures
+- 英文标题：Soil moisture retrieval for dense vegetation considering time-varying first-order scattering from SMAP L-band dual-polarized brightness temperatures
+- DOI：[10.1016/j.rse.2026.115787](https://doi.org/10.1016/j.rse.2026.115787)
+- 作者：Jaese Lee; Simon Yueh; Dara Entekhabi; Andreas Colliander; Jungho Im; Chang-Hwan Park; Hyunglok Kim
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Hyperbolic vision-language cross-domain segmentation for multi-defect in tunnel linings
+- 英文标题：Hyperbolic vision-language cross-domain segmentation for multi-defect in tunnel linings
+- DOI：[10.1016/j.isprsjprs.2026.11.012](https://doi.org/10.1016/j.isprsjprs.2026.11.012)
+- 作者：Haowen Liu; Zhenxin Zhang; Liqiang Zhang; Hongwei Li; Ruofan Zhao; Lei Xu; Shoupeng Qin; Jing Liu; Haili Sun; Ruikang Xu; Shuye Wang; Te Sha; Hanyu Wang
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Dual probabilistic Submap-Constrained multimodal SLAM for complex underground spaces
+- 英文标题：Dual probabilistic Submap-Constrained multimodal SLAM for complex underground spaces
+- DOI：[10.1016/j.isprsjprs.2026.11.017](https://doi.org/10.1016/j.isprsjprs.2026.11.017)
+- 作者：Xiaohu Lin; Xiang Wang; Bisheng Yang; Chi Chen; Yinan Gao; Aiqiang Ma; Jiameng Zhang
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜LACLNet: Remote sensing semantic segmentation via language-aided context learning under incomplete supervision
+- 英文标题：LACLNet: Remote sensing semantic segmentation via language-aided context learning under incomplete supervision
+- DOI：[10.1016/j.isprsjprs.2026.11.011](https://doi.org/10.1016/j.isprsjprs.2026.11.011)
+- 作者：Xudong Hu; Zhiyuan Yan; Yanting Duan; Junxi Li; Liang Zhang; Xinyu Ni; Xian Sun
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
