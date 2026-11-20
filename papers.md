@@ -1771,3 +1771,48 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜High spatial resolution Greenland Ice Sheet mass change linked to Greenland Blocking and North Atlantic Oscillation
+- 英文标题：High spatial resolution Greenland Ice Sheet mass change linked to Greenland Blocking and North Atlantic Oscillation
+- DOI：[10.1016/j.jag.2026.105327](https://doi.org/10.1016/j.jag.2026.105327)
+- 作者：Zhuoya Shi; Zemin Wang; Baojun Zhang; Shuang Wu; Nicholas E. Barrand; Yong Su; Hong Geng; Jiachun An; Qian Li
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Regional-scale field-level estimation and mapping of tillage practices in areas with crop diversity
+- 英文标题：Regional-scale field-level estimation and mapping of tillage practices in areas with crop diversity
+- DOI：[10.1016/j.rse.2026.115781](https://doi.org/10.1016/j.rse.2026.115781)
+- 作者：Amin Norouzi Kandelati; Amanda T. Stahl; Yan Yan; Siddharth Chaudhary; Steve Van Vleet; Mohammed Amine Gharsallaoui; Janardhan Rao Doppa; David Gustafson; Hans Kok; Kirti Rajagopalan
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Temperature and emissivity retrieval from airborne hyperspectral thermal infrared imagery using adaptive continuous piecewise linear modeling with water vapor scaling
+- 英文标题：Temperature and emissivity retrieval from airborne hyperspectral thermal infrared imagery using adaptive continuous piecewise linear modeling with water vapor scaling
+- DOI：[10.1016/j.rse.2026.115795](https://doi.org/10.1016/j.rse.2026.115795)
+- 作者：Jiani He; Chunlai Li; Chengyu Liu; Chenyang Ma; Menglin Si; Caixia Gao; Françoise Nerry; Zhao-Liang Li
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Forest structure types in the southern Amazon Basin are influenced by anthropogenic edges and physiography
+- 英文标题：Forest structure types in the southern Amazon Basin are influenced by anthropogenic edges and physiography
+- DOI：[10.1016/j.rse.2026.115794](https://doi.org/10.1016/j.rse.2026.115794)
+- 作者：Matteo Redana; Mario R. Moura; Bela Starinchak; Maurício H. Vancine; Paulo Brando; Scott Goetz; Patrick Jantz
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Unsupervised unified thin cloud removal via physics-based decoupling and infrared-assisted adversarial learning
+- 英文标题：Unsupervised unified thin cloud removal via physics-based decoupling and infrared-assisted adversarial learning
+- DOI：[10.1016/j.isprsjprs.2026.10.026](https://doi.org/10.1016/j.isprsjprs.2026.10.026)
+- 作者：Hang Fu; Baojie Shao; Genyun Sun; Aizhu Zhang; Wenjuan Zhang; Mingming Jia; Haiyong Zheng
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
