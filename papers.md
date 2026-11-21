@@ -1816,3 +1816,39 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### RSE · Volume 349｜Towards root-zone soil moisture and soil moisture profile measurement from space: A review of P-band radiometry, synthetic aperture radar, and signals-of-opportunity reflectometry
+- 英文标题：Towards root-zone soil moisture and soil moisture profile measurement from space: A review of P-band radiometry, synthetic aperture radar, and signals-of-opportunity reflectometry
+- DOI：[10.1016/j.rse.2026.115755](https://doi.org/10.1016/j.rse.2026.115755)
+- 作者：Xiaoji Shen; Liujun Zhu; Nan Ye; Hongtao Shi; Tengteng Zuo; Tianyu Cui; Qiaozhu Ji; Giovanni Macelloni; Foad Brakhasi; Xiaoling Wu; Di Zhu; Xiaolong Dong; Xin Li; Jeffrey P. Walker
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Bridging multi-source satellite land surface temperature and WRF-simulated diurnal dynamics for reconstructing 1-km hourly near-surface air temperature in complex mountain regions
+- 英文标题：Bridging multi-source satellite land surface temperature and WRF-simulated diurnal dynamics for reconstructing 1-km hourly near-surface air temperature in complex mountain regions
+- DOI：[10.1016/j.rse.2026.115798](https://doi.org/10.1016/j.rse.2026.115798)
+- 作者：Xinyao Xie; Yong Wang; Wei Zhao; Gaofei Yin; Junli Zhao; Bing Cheng; Tao Yang; Jiujiang Wu
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜High-resolution benthic composition mapping of Hawaiian coral reefs using imaging spectroscopy
+- 英文标题：High-resolution benthic composition mapping of Hawaiian coral reefs using imaging spectroscopy
+- DOI：[10.1016/j.isprsjprs.2026.10.036](https://doi.org/10.1016/j.isprsjprs.2026.10.036)
+- 作者：Dominica E. Harrison; Roberta E. Martin; Nicholas R. Vaughn; Gregory P. Asner
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜DySegISW: A temporal deep learning framework for the dynamic segmentation of internal solitary waves from geostationary satellite imagery
+- 英文标题：DySegISW: A temporal deep learning framework for the dynamic segmentation of internal solitary waves from geostationary satellite imagery
+- DOI：[10.1016/j.isprsjprs.2026.11.014](https://doi.org/10.1016/j.isprsjprs.2026.11.014)
+- 作者：Longyu Huang; Han Han; Jingsong Yang; Yu Chai
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
