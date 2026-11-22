@@ -3728,7 +3728,43 @@
       "read": false,
       "metadata_source": "Crossref",
       "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.jag.2026.105689": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105689",
+      "title_en": "Multi-angular remote sensing-derived directional fractional vegetation cover for improved C-factor estimation in RUSLE modeling",
+      "title_zh": "",
+      "authors": "Rui Tan; Geng Guo; Yu Tao; Ying Pan; Zicheng Liu; Lin Chen; Xin Liu; Jie Lin",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-12",
+      "volume": "155",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.jag.2026.105689",
+      "first_pushed_at": "2026-11-22",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.rse.2026.115777": {
+      "journal": "RSE",
+      "doi": "10.1016/j.rse.2026.115777",
+      "title_en": "Monte Carlo biphasic estimation of fire properties (McBEF): Part I, algorithm formulation",
+      "title_zh": "",
+      "authors": "Meng Zhou; Arlindo M. da Silva; Jun Wang; David A. Peterson",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2027-01",
+      "volume": "349",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.rse.2026.115777",
+      "first_pushed_at": "2026-11-22",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
     }
   },
-  "last_checked_at": "2026-11-21T05:33:34.584676+00:00"
+  "last_checked_at": "2026-11-22T04:58:40.327193+00:00"
 }

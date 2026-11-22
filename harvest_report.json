@@ -1,36 +1,36 @@
 {
-  "run_at": "2026-11-21T05:33:34.584676+00:00",
+  "run_at": "2026-11-22T04:58:40.327193+00:00",
   "journals": {
     "JAG": {
-      "rss_entries": 99,
+      "rss_entries": 100,
       "rss_dois": 0,
-      "crossref_records": 12,
+      "crossref_records": 13,
       "target_volume": "155",
       "target_issue": null,
       "issue_completeness_verified": false,
-      "new_records": 0,
+      "new_records": 1,
       "errors": [],
       "rss_dois_not_in_volume": 0
     },
     "RSE": {
-      "rss_entries": 60,
+      "rss_entries": 63,
       "rss_dois": 0,
-      "crossref_records": 24,
+      "crossref_records": 25,
       "target_volume": "349",
       "target_issue": null,
       "issue_completeness_verified": false,
-      "new_records": 2,
+      "new_records": 1,
       "errors": [],
       "rss_dois_not_in_volume": 0
     },
     "ISPRS JPRS": {
-      "rss_entries": 77,
+      "rss_entries": 78,
       "rss_dois": 0,
       "crossref_records": 78,
       "target_volume": "243",
       "target_issue": null,
       "issue_completeness_verified": false,
-      "new_records": 2,
+      "new_records": 0,
       "errors": [],
       "rss_dois_not_in_volume": 0
     },

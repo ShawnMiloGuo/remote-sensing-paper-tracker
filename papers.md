@@ -1852,3 +1852,21 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜Multi-angular remote sensing-derived directional fractional vegetation cover for improved C-factor estimation in RUSLE modeling
+- 英文标题：Multi-angular remote sensing-derived directional fractional vegetation cover for improved C-factor estimation in RUSLE modeling
+- DOI：[10.1016/j.jag.2026.105689](https://doi.org/10.1016/j.jag.2026.105689)
+- 作者：Rui Tan; Geng Guo; Yu Tao; Ying Pan; Zicheng Liu; Lin Chen; Xin Liu; Jie Lin
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Monte Carlo biphasic estimation of fire properties (McBEF): Part I, algorithm formulation
+- 英文标题：Monte Carlo biphasic estimation of fire properties (McBEF): Part I, algorithm formulation
+- DOI：[10.1016/j.rse.2026.115777](https://doi.org/10.1016/j.rse.2026.115777)
+- 作者：Meng Zhou; Arlindo M. da Silva; Jun Wang; David A. Peterson
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
