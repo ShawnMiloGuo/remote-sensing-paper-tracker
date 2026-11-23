@@ -1870,3 +1870,30 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜Delineate anything flow: fast, country-level field boundary detection from any source
+- 英文标题：Delineate anything flow: fast, country-level field boundary detection from any source
+- DOI：[10.1016/j.jag.2026.105683](https://doi.org/10.1016/j.jag.2026.105683)
+- 作者：Mykola Lavreniuk; Nataliia Kussul; Andrii Shelestov; Yevhenii Salii; Volodymyr Kuzin; Sergii Skakun; Zoltan Szantoi
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Exploring human–model attention alignment in sentinel-2 land cover classification: a perspective from visual ambiguity interpretability
+- 英文标题：Exploring human–model attention alignment in sentinel-2 land cover classification: a perspective from visual ambiguity interpretability
+- DOI：[10.1016/j.isprsjprs.2026.11.024](https://doi.org/10.1016/j.isprsjprs.2026.11.024)
+- 作者：Longkang Peng; Xiaolin Zhu; Xuehong Chen; Jingcai Guo; Xiaobei Chen; Kang Yu; Yang Chen; Tao Wei
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜GUIDE: Geometric understanding via inferred dynamic extraction for Proposal-Conditioned moving object segmentation in UAV videos
+- 英文标题：GUIDE: Geometric understanding via inferred dynamic extraction for Proposal-Conditioned moving object segmentation in UAV videos
+- DOI：[10.1016/j.isprsjprs.2026.11.025](https://doi.org/10.1016/j.isprsjprs.2026.11.025)
+- 作者：Xu Li; Xuefeng Guan; Guohua Gou; Kunlun Qi; Chang Liu; Yaxian Qing; Huayi Wu
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏

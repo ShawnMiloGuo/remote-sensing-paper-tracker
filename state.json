@@ -3764,7 +3764,61 @@
       "read": false,
       "metadata_source": "Crossref",
       "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.jag.2026.105683": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105683",
+      "title_en": "Delineate anything flow: fast, country-level field boundary detection from any source",
+      "title_zh": "",
+      "authors": "Mykola Lavreniuk; Nataliia Kussul; Andrii Shelestov; Yevhenii Salii; Volodymyr Kuzin; Sergii Skakun; Zoltan Szantoi",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-12",
+      "volume": "155",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.jag.2026.105683",
+      "first_pushed_at": "2026-11-23",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.isprsjprs.2026.11.024": {
+      "journal": "ISPRS JPRS",
+      "doi": "10.1016/j.isprsjprs.2026.11.024",
+      "title_en": "Exploring human–model attention alignment in sentinel-2 land cover classification: a perspective from visual ambiguity interpretability",
+      "title_zh": "",
+      "authors": "Longkang Peng; Xiaolin Zhu; Xuehong Chen; Jingcai Guo; Xiaobei Chen; Kang Yu; Yang Chen; Tao Wei",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2027-01",
+      "volume": "243",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.11.024",
+      "first_pushed_at": "2026-11-23",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.isprsjprs.2026.11.025": {
+      "journal": "ISPRS JPRS",
+      "doi": "10.1016/j.isprsjprs.2026.11.025",
+      "title_en": "GUIDE: Geometric understanding via inferred dynamic extraction for Proposal-Conditioned moving object segmentation in UAV videos",
+      "title_zh": "",
+      "authors": "Xu Li; Xuefeng Guan; Guohua Gou; Kunlun Qi; Chang Liu; Yaxian Qing; Huayi Wu",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2027-01",
+      "volume": "243",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.11.025",
+      "first_pushed_at": "2026-11-23",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
     }
   },
-  "last_checked_at": "2026-11-22T04:58:40.327193+00:00"
+  "last_checked_at": "2026-11-23T05:40:29.440297+00:00"
 }
