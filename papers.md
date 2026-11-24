@@ -1897,3 +1897,57 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### RSE · Volume 349｜Monte Carlo biphasic estimation of fire properties (McBEF): Part II, night-time VIIRS implementation
+- 英文标题：Monte Carlo biphasic estimation of fire properties (McBEF): Part II, night-time VIIRS implementation
+- DOI：[10.1016/j.rse.2026.115778](https://doi.org/10.1016/j.rse.2026.115778)
+- 作者：Meng Zhou; Arlindo M. da Silva; Jun Wang; David A. Peterson
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Oscillation-informed singular spectrum analysis: a robust approach for turbulent delay correction in MT-InSAR
+- 英文标题：Oscillation-informed singular spectrum analysis: a robust approach for turbulent delay correction in MT-InSAR
+- DOI：[10.1016/j.rse.2026.115792](https://doi.org/10.1016/j.rse.2026.115792)
+- 作者：Pengzhan Wu; Lei Zhang; Zhong Lu; Hongyu Liang; Xinyou Song
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜A sparse non-photosynthetic vegetation index and its RGB extension: Evaluation using Sentinel-2, SDGSAT-1, and UAV imagery
+- 英文标题：A sparse non-photosynthetic vegetation index and its RGB extension: Evaluation using Sentinel-2, SDGSAT-1, and UAV imagery
+- DOI：[10.1016/j.rse.2026.115796](https://doi.org/10.1016/j.rse.2026.115796)
+- 作者：Cuicui Ji; Hao Yuan; Xiaosong Li; Fuyang Sun; Bin Sun; Xuemei Yang; Hengcong Yang
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜DRGNet: A Dual-Stream residual guidance network for small waterbody extraction in complex environments via structural uncertainty modeling
+- 英文标题：DRGNet: A Dual-Stream residual guidance network for small waterbody extraction in complex environments via structural uncertainty modeling
+- DOI：[10.1016/j.isprsjprs.2026.11.028](https://doi.org/10.1016/j.isprsjprs.2026.11.028)
+- 作者：Tao Li; Chunlin Huang; Peng Dou; Zhihua Zhang; Qiang Bie; Tianwen Feng
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Elastic factor graph optimization with online scale rectification for asynchronous multi-sensor fusion localization
+- 英文标题：Elastic factor graph optimization with online scale rectification for asynchronous multi-sensor fusion localization
+- DOI：[10.1016/j.isprsjprs.2026.11.016](https://doi.org/10.1016/j.isprsjprs.2026.11.016)
+- 作者：Jietao Lei; Jingbin Liu; Luming Han; Liang Chen; Juha Hyyppä
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜UBC-SSMPL: Unified and bias-calibrated prototype learning with scattering–structure modulation for generalized ship category discovery in SAR imagery
+- 英文标题：UBC-SSMPL: Unified and bias-calibrated prototype learning with scattering–structure modulation for generalized ship category discovery in SAR imagery
+- DOI：[10.1016/j.isprsjprs.2026.11.003](https://doi.org/10.1016/j.isprsjprs.2026.11.003)
+- 作者：Tianwen Zhang; Xiaoling Zhang; Shunjun Wei; Gui Gao
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
