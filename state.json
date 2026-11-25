@@ -3926,7 +3926,43 @@
       "read": false,
       "metadata_source": "Crossref",
       "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.jag.2026.105693": {
+      "journal": "JAG",
+      "doi": "10.1016/j.jag.2026.105693",
+      "title_en": "Global 30 m forest canopy height mapping through harmonized GEDI and ICESat-2 LiDAR integration with multi-source images",
+      "title_zh": "",
+      "authors": "Sheng Nie; Xiaoxiao Zhu; Cheng Wang; Xiaohuan Xi; Dong Li; Baokun Feng",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2026-12",
+      "volume": "155",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.jag.2026.105693",
+      "first_pushed_at": "2026-11-25",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
+    },
+    "10.1016/j.isprsjprs.2026.11.021": {
+      "journal": "ISPRS JPRS",
+      "doi": "10.1016/j.isprsjprs.2026.11.021",
+      "title_en": "Landsat-Sentinel-2 floating algal bloom mapping using Vision Transformers: Model description, implementation, and examples",
+      "title_zh": "",
+      "authors": "Thainara M.A. Lima; Vitor S. Martins",
+      "affiliations_zh": "作者单位暂未获取",
+      "publication_date": "2027-01",
+      "volume": "243",
+      "issue": "",
+      "summary_zh": "",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.11.021",
+      "first_pushed_at": "2026-11-25",
+      "favorite": false,
+      "read": false,
+      "metadata_source": "Crossref",
+      "verification": "volume metadata matched; official issue completeness not verified"
     }
   },
-  "last_checked_at": "2026-11-24T08:18:42.370287+00:00"
+  "last_checked_at": "2026-11-25T06:54:58.865022+00:00"
 }

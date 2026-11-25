@@ -1951,3 +1951,21 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜Global 30 m forest canopy height mapping through harmonized GEDI and ICESat-2 LiDAR integration with multi-source images
+- 英文标题：Global 30 m forest canopy height mapping through harmonized GEDI and ICESat-2 LiDAR integration with multi-source images
+- DOI：[10.1016/j.jag.2026.105693](https://doi.org/10.1016/j.jag.2026.105693)
+- 作者：Sheng Nie; Xiaoxiao Zhu; Cheng Wang; Xiaohuan Xi; Dong Li; Baokun Feng
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Landsat-Sentinel-2 floating algal bloom mapping using Vision Transformers: Model description, implementation, and examples
+- 英文标题：Landsat-Sentinel-2 floating algal bloom mapping using Vision Transformers: Model description, implementation, and examples
+- DOI：[10.1016/j.isprsjprs.2026.11.021](https://doi.org/10.1016/j.isprsjprs.2026.11.021)
+- 作者：Thainara M.A. Lima; Vitor S. Martins
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
