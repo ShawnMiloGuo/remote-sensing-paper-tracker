@@ -1969,3 +1969,75 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜GMAT: satellite image time-series crop classification via a gated mamba-attention fusion network
+- 英文标题：GMAT: satellite image time-series crop classification via a gated mamba-attention fusion network
+- DOI：[10.1016/j.jag.2026.105685](https://doi.org/10.1016/j.jag.2026.105685)
+- 作者：Qishuai Ren; Xinhui Wang; Hong Wang; Shilong Ma; Xiaoning Zhai; Penghui Wu
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Dual V-shaped characteristics to extract rice paddies in rice and wetland coexisting regions from SAR imagery
+- 英文标题：Dual V-shaped characteristics to extract rice paddies in rice and wetland coexisting regions from SAR imagery
+- DOI：[10.1016/j.rse.2026.115800](https://doi.org/10.1016/j.rse.2026.115800)
+- 作者：Chen Cheng; Hong Chi
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Spectral-temporal patterns of vegetation communities: Identifying where and when biological information emerges in imaging spectroscopy data
+- 英文标题：Spectral-temporal patterns of vegetation communities: Identifying where and when biological information emerges in imaging spectroscopy data
+- DOI：[10.1016/j.rse.2026.115747](https://doi.org/10.1016/j.rse.2026.115747)
+- 作者：Jaime C. Revenga; Ankit Kariryaa; Zhaoyue Wu; Ting Zheng; Kyle R. Kovach; Fabian D. Schneider
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜From sensors to systems: Perspectives and opportunities for earth observation to enable scalable biodiversity monitoring
+- 英文标题：From sensors to systems: Perspectives and opportunities for earth observation to enable scalable biodiversity monitoring
+- DOI：[10.1016/j.rse.2026.115799](https://doi.org/10.1016/j.rse.2026.115799)
+- 作者：Nicholas C. Coops; Ramon Melser; Evan Muise
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜A multi-snapshot inversion technique for interferometric Earth observation in the L-band
+- 英文标题：A multi-snapshot inversion technique for interferometric Earth observation in the L-band
+- DOI：[10.1016/j.isprsjprs.2026.11.013](https://doi.org/10.1016/j.isprsjprs.2026.11.013)
+- 作者：Max Dunitz; Bernard Rougé; Éric Anterrieu; Nemesio Rodríguez-Fernández; Yann Kerr; Jean-Michel Morel; Miguel Colom
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜MSDiff: Time-adaptive diffusion framework with texture-semantic condition for multispectral image semantic segmentation
+- 英文标题：MSDiff: Time-adaptive diffusion framework with texture-semantic condition for multispectral image semantic segmentation
+- DOI：[10.1016/j.isprsjprs.2026.11.015](https://doi.org/10.1016/j.isprsjprs.2026.11.015)
+- 作者：Gengque Fan; Han Xu; Chen Lu; Chengli Peng; Guangcan Liu
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜A physically-based evaluation method for fine-scale ECOSTRESS land surface temperature over 3D urban surfaces
+- 英文标题：A physically-based evaluation method for fine-scale ECOSTRESS land surface temperature over 3D urban surfaces
+- DOI：[10.1016/j.isprsjprs.2026.11.020](https://doi.org/10.1016/j.isprsjprs.2026.11.020)
+- 作者：Aixia Yang; Zunjian Bian; Dacheng Wang; Tengyuan Fan; Jean-Louis Roujean; Juan Cheng; Yongming Du; Hua Li; Qing Xiao
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Mapping global 10 m annual land-cover dynamics from 2017 to 2024 using AlphaEarth foundation embeddings
+- 英文标题：Mapping global 10 m annual land-cover dynamics from 2017 to 2024 using AlphaEarth foundation embeddings
+- DOI：[10.1016/j.isprsjprs.2026.11.030](https://doi.org/10.1016/j.isprsjprs.2026.11.030)
+- 作者：Xiao Zhang; Liangyun Liu; Tingting Zhao
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
