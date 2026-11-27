@@ -2041,3 +2041,66 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### JAG · Volume 155｜Truth-driven adaptive unmixing for multi-scenario hyperspectral mineral abundance mapping
+- 英文标题：Truth-driven adaptive unmixing for multi-scenario hyperspectral mineral abundance mapping
+- DOI：[10.1016/j.jag.2026.105692](https://doi.org/10.1016/j.jag.2026.105692)
+- 作者：Qunjia Zhang; Hua Shi; Lei Liu; Jiacheng Mei
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜Why sub-Saharan African cropland maps fail and pathways forward: A review of persistent mapping challenges
+- 英文标题：Why sub-Saharan African cropland maps fail and pathways forward: A review of persistent mapping challenges
+- DOI：[10.1016/j.jag.2026.105671](https://doi.org/10.1016/j.jag.2026.105671)
+- 作者：Kelsee H. Bratley; Foster Mensah; Curtis E. Woodcock
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜Multi-source remote sensing-based damage assessment of Iranian nuclear facilities following military strikes
+- 英文标题：Multi-source remote sensing-based damage assessment of Iranian nuclear facilities following military strikes
+- DOI：[10.1016/j.jag.2026.105686](https://doi.org/10.1016/j.jag.2026.105686)
+- 作者：Chencheng Li; Zhiping Jiao; Xuguo Shi; Liming Jiang; Zhiwei Zhou; Bo Yang; Zhenyan Lai; Bin Yan; Zhangyi Feng; Heping Sun
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### JAG · Volume 155｜AXIA: An Asymmetric X-modal Injection Architecture with parameter-efficient adapters for RGB-X remote sensing semantic segmentation
+- 英文标题：AXIA: An Asymmetric X-modal Injection Architecture with parameter-efficient adapters for RGB-X remote sensing semantic segmentation
+- DOI：[10.1016/j.jag.2026.105681](https://doi.org/10.1016/j.jag.2026.105681)
+- 作者：Xiang Li; Jianfeng Li; Shuo Zhang; Siyu Cheng; Chenxu Wang; Xinsheng Wang
+- 卷期：Volume 155
+- 发表日期：2026-12
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### RSE · Volume 349｜Bayesian assessment of antarctic grounding line positions with sentinel-1 data and empirical priors
+- 英文标题：Bayesian assessment of antarctic grounding line positions with sentinel-1 data and empirical priors
+- DOI：[10.1016/j.rse.2026.115768](https://doi.org/10.1016/j.rse.2026.115768)
+- 作者：Michael Engel; Sindhu Ramanath; Lukas Krieger; Jan Wuite; Dana Floricioiu; Marco Körner
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜The first assessment of PhiSat-2 imagery for monocular building height estimation
+- 英文标题：The first assessment of PhiSat-2 imagery for monocular building height estimation
+- DOI：[10.1016/j.isprsjprs.2026.11.023](https://doi.org/10.1016/j.isprsjprs.2026.11.023)
+- 作者：Yanjiao Song; Bowen Cai; Timo Balz; Zhenfeng Shao; Neema Simon Sumari; James Magidi; Walter Musakwa
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜DSDF: A disentangled spatiotemporal data fusion model with Scale-Specific representation
+- 英文标题：DSDF: A disentangled spatiotemporal data fusion model with Scale-Specific representation
+- DOI：[10.1016/j.isprsjprs.2026.11.027](https://doi.org/10.1016/j.isprsjprs.2026.11.027)
+- 作者：Chen Xu; Xiaoping Du; Hongdeng Jian; Xiangtao Fan
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
