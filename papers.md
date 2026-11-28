@@ -2104,3 +2104,21 @@
 - 发表日期：2027-01
 - 中文标题及摘要：待翻译
 - 状态：未读、未收藏
+
+### RSE · Volume 349｜Quantifying the non-stationary resilience of terrestrial water storage to droughts based on long-term GRAiCE reconstruction products
+- 英文标题：Quantifying the non-stationary resilience of terrestrial water storage to droughts based on long-term GRAiCE reconstruction products
+- DOI：[10.1016/j.rse.2026.115802](https://doi.org/10.1016/j.rse.2026.115802)
+- 作者：Alhassane Bah; Yi Li; Kadambot H.M. Siddique; Asim Biswas; Hao Feng; Qiang Yu; Qianfeng Wang
+- 卷期：Volume 349
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
+
+### ISPRS JPRS · Volume 243｜Enhancing training-time geometric supervision for self-supervised monocular depth estimation from UAV imagery
+- 英文标题：Enhancing training-time geometric supervision for self-supervised monocular depth estimation from UAV imagery
+- DOI：[10.1016/j.isprsjprs.2026.11.036](https://doi.org/10.1016/j.isprsjprs.2026.11.036)
+- 作者：Xiaotian Yang; Tomohiro Fukuda
+- 卷期：Volume 243
+- 发表日期：2027-01
+- 中文标题及摘要：待翻译
+- 状态：未读、未收藏
